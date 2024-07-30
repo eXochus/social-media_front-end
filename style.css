@@ -1,0 +1,86 @@
+body {
+    text-align: center;
+    background: hsl(0, 0%, 8%);
+    font-weight: 500;
+}
+
+.background-div {
+    margin: 20px auto;
+    background-color: hsl(0, 0%, 12%);
+    width: 375px;
+}
+
+img {
+    padding: 20px;
+    border-radius: 100%;
+    height: 120px;
+    width: 120px;
+}
+
+.jessica {
+    color: hsl(0, 0%, 100%);
+    font-size: 27px;
+    margin-bottom: 5px;
+}
+
+.london {
+    color: hsl(75, 94%, 57%);
+    margin-top: 0;
+    font-size: 15px;
+}
+
+.front {
+    color: whitesmoke;
+    font-size: 14px;
+}
+
+.accounts {
+    padding-bottom: 30px;
+
+
+}
+
+.github {
+    color: white;
+    padding: 10px;
+    background-color: hsl(0, 0%, 20%);
+    width: 230px;
+    margin: auto;
+    border-radius: 7px;
+}
+
+.frontend {
+    color: white;
+    padding: 10px;
+    background-color: hsl(0, 0%, 20%);
+    width: 230px;
+    margin: 10px auto;
+    border-radius: 7px;
+}
+
+.linkedin {
+    color: white;
+    padding: 10px;
+    background-color: hsl(0, 0%, 20%);
+    width: 230px;
+    margin: 10px auto;
+    border-radius: 7px;
+}
+
+.twitter {
+    color: white;
+    padding: 10px;
+    background-color: hsl(0, 0%, 20%);
+    width: 230px;
+    margin: 10px auto;
+    border-radius: 7px;
+}
+
+.instagram {
+    color: white;
+    padding: 10px;
+    background-color: hsl(0, 0%, 20%);
+    width: 230px;
+    margin: 10px auto;
+    border-radius: 7px;
+}
